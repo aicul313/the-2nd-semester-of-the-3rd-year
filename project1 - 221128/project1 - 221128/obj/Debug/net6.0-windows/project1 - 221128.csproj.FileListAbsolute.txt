@@ -1,0 +1,7 @@
+C:\Users\현지\Desktop\[ 현지 ]\링크 - 아두이노 C# 연계\project1 - 221128\project1 - 221128\obj\Debug\net6.0-windows\project1 - 221128.csproj.AssemblyReference.cache
+C:\Users\현지\Desktop\[ 현지 ]\링크 - 아두이노 C# 연계\project1 - 221128\project1 - 221128\obj\Debug\net6.0-windows\project1___221128.Form1.resources
+C:\Users\현지\Desktop\[ 현지 ]\링크 - 아두이노 C# 연계\project1 - 221128\project1 - 221128\obj\Debug\net6.0-windows\project1 - 221128.csproj.GenerateResource.cache
+C:\Users\현지\Desktop\[ 현지 ]\링크 - 아두이노 C# 연계\project1 - 221128\project1 - 221128\obj\Debug\net6.0-windows\project1 - 221128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\현지\Desktop\[ 현지 ]\링크 - 아두이노 C# 연계\project1 - 221128\project1 - 221128\obj\Debug\net6.0-windows\project1 - 221128.AssemblyInfoInputs.cache
+C:\Users\현지\Desktop\[ 현지 ]\링크 - 아두이노 C# 연계\project1 - 221128\project1 - 221128\obj\Debug\net6.0-windows\project1 - 221128.AssemblyInfo.cs
+C:\Users\현지\Desktop\[ 현지 ]\링크 - 아두이노 C# 연계\project1 - 221128\project1 - 221128\obj\Debug\net6.0-windows\project1 - 221128.csproj.CoreCompileInputs.cache
